@@ -1,3 +1,5 @@
+// 欠缺 method InsertAt(), removeAt() etc.
+
 //  Linked list class
 class LinkedList {
   constructor(head = null) {
